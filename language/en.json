@@ -1,0 +1,21 @@
+{
+  "option_prompt": "Please choose an option:",
+  "Know_Day": "\u001b[1m1 - \u001b[0mKnow how many hours you should have at the end of the day",
+  "Know_Week": "\u001b[1m2 - \u001b[0mKnow how many hours you should have at the end of the week",
+  "Know_NDay": "\u001b[1m3 - \u001b[0mKnow how many hours you should have at the end of n days",
+  "change_Language": "\u001b[1m4 - \u001b[0mChange the default language",
+  "language_ask": "Which language do you want to use? \n1 - English\n2 - French",
+  "exit": "\u001b[1m5 - \u001b[0mExit",
+  "days_off_question": "Did you take any days off between \u001b[1m%s %s %d\u001b[0m and \u001b[1m%s %s %d \u001b[0m[Y/N]?",
+  "invalid_input_message": "Invalid input. Please enter \u001b[1mY or N\u001b[0m.",
+  "invalid_days_number": "Please enter a number between 0 and %d",
+  "days_off_prompt": "How many days off did you take? ",
+  "invalid_days_input": "Please enter a number between \u001b[1mand %d\u001b[0m",
+  "invalid_days_input_number": "Invalid input. Please enter a number.",
+  "hours_day_question":"Do you want to know the number of hours for \u001b[1m%s %s %d \u001b[0m[Y/N]?",
+  "how_many_hours":"How many days do you want to know the number of hours for? (just the number, like : '5', for saturday 5 march)",
+  "final_print_week":"At the end of the week, you should be at: \u001b[1m%d hours\u001b[0m in total",
+  "final_print_day":"At the end of the day, you should be at: \u001b[1m%d hours\u001b[0m in total",
+  "final_print_nday": "At the end of the day on: \u001b[1m%s %s %d\u001b[0m, you should be at: \u001b[1m%d hours\u001b[0m in total",
+  "final_print_negative":"there is a problem with the data you entered, please check the data and try again"
+}

@@ -1,0 +1,21 @@
+{
+    "option_prompt": "Veuillez choisir une option :",
+    "Know_Day": "\u001b[1m1 - \u001b[0mSavoir combien d'heures vous devriez avoir à la fin de la journée",
+    "Know_Week": "\u001b[1m2 - \u001b[0mSavoir combien d'heures vous devriez avoir à la fin de la semaine",
+    "Know_NDay": "\u001b[1m3 - \u001b[0mSavoir combien d'heures vous devriez avoir à la fin de n jours",
+    "change_Language": "\u001b[1m4 - \u001b[0mChanger la langue par défaut",
+    "language_ask": "Quel language veux-tu utiliser? \n1 - Englais\n2 - Francais",
+    "exit": "\u001b[1m5 -\u001b[0m Sortie-->",
+    "days_off_question": "Avez-vous pris des jours de congé entre \u001b[1m%s %s %d\u001b[0m et \u001b[1m%s %s %d \u001b[0m[O/N]?",
+    "invalid_input_message": "Entrée invalide. Veuillez entrer \u001b[1mO ou N\u001b[0m.",
+    "invalid_days_number": "Veuillez entrer un nombre entre 0 et",
+    "days_off_prompt": "Combien de jours de congé avez-vous pris ? ",
+    "invalid_days_input": "Veuillez entrer un nombre entre \u001b[1met %d\u001b[0m",
+    "invalid_days_input_number": "Entrée invalide. Veuillez entrer un nombre.",
+    "hours_day_question":"Voulez-vous connaître le nombre d'heures pour le \u001b[1m%s %s %d \u001b[0m[O/N]?",
+    "how_many_hours":"Quel jour souhaitez-vous connaître le nombre d'heures? \u001b[3m(juste le numéro, exemple : '5', pour samedi 5)\u001b[0m ",
+    "final_print_week":"En fin de semaine, tu dois être à : \u001b[1m%d heures\u001b[0m au total",
+    "final_print_day":"En fin de journée, tu dois être à : \u001b[1m%d heures\u001b[0m au total",
+    "final_print_nday": "En fin de journée du : \u001b[1m%s %s %d\u001b[0m, tu dois être à : \u001b[1m%d heures\u001b[0m au total",
+    "final_print_negative":"Y'a une erreur quelque part, tu as peut être mal entré certaines données"
+}
