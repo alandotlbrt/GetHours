@@ -16,7 +16,7 @@ func BuildExe() {
 	fmt.Print("-->")
 	fmt.Scanf("%s", &nameFile)
 
-	fichier := "../GetHours01/goFolder/MAIN/getHours.go"
+	fichier := "./goFolder/MAIN/getHours.go"
 	cmd := exec.Command("go", "build", "-o", nameFile, fichier)
 	if err := cmd.Run(); err != nil {
 		fmt.Printf("Erreur lors de la construction de l'exécutable de GetHours: %v\n", err)
